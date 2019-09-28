@@ -14,8 +14,7 @@ You can pass in `-q` if you want to supress messaging so it behaves like it woul
 ## Useful Links
 
 - [Creating API Tokens](https://id.atlassian.com/manage/api-tokens)
-  - Note: this process may be different if you're not using Atlassian Cloud
-- [Jira REST APIs](https://developer.atlassian.com/server/jira/platform/rest-apis/)
+- [Jira REST APIs](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)
 
 ## License
 See LICENSE for details.
