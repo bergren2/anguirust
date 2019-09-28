@@ -1,0 +1,7 @@
+[package]
+name = "anguirust"
+version = "0.1.0"
+authors = ["bergren2 <dan@bergren.dev>"]
+edition = "2018"
+
+[dependencies]
