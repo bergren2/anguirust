@@ -5,3 +5,6 @@ authors = ["bergren2 <dan@bergren.dev>"]
 edition = "2018"
 
 [dependencies]
+human-panic = "1.0.1"
+serde_json = "1.0.40"
+structopt = "0.3"
